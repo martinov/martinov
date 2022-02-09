@@ -1,16 +1,18 @@
-### Hi there 👋
+# About Me
 
-<!--
-**martinov/martinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a senior developer with a focus on software architecture and design. I live in Bulgaria 🇧🇬 and work remotely 👨‍💻.
 
-Here are some ideas to get you started:
+I coded my first program in 1996 on an 8-bit computer 👾. Today I have more than 20 years of commercial software development experience. With hundreds of successfully completed projects in both outsourcing and product companies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Something else I have plenty of pasion about is alpine and sport rock climbing 🧗‍♂️.
+
+## Around The Web
+
+- My web site @ [mmartinov.com](https://mmartinov.com)
+- I'm a proud member of the [Camplight](https://camplight.net) team 🔥.
+- [Twitter](https://twitter.com/jamesmh_dev)
+- [LinkedIn](https://www.linkedin.com/in/martinov/)
+
+## Want to work with me or just get in touch?
+
+📫 Book a quick introductoriy call [here](https://cal.com/mmartinov/45-min-meeting).
