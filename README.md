@@ -6,6 +6,8 @@ I coded my first program in 1996 on an 8-bit computer 👾. Today I have more th
 
 Something else I have plenty of pasion about is alpine and sport rock climbing 🧗‍♂️
 
+![MMartinov](mmartinov-logo-blue.png)
+
 ## Around The Web
 
 - My web site @ [mmartinov.com](https://mmartinov.com)
