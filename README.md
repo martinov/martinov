@@ -2,8 +2,7 @@
 
 I'm a senior developer with a focus on software architecture and design. Currently I live in Bulgaria 🇧🇬 and work remotely 👨‍💻
 
-I coded my first program in 1996 on an 8-bit computer 👾
-Today I have more than 20 years of commercial software development experience and hundreds of successfully completed projects in both outsourcing and product companies.
+I coded my first program in 1996 on an 8-bit computer 👾. Today I have more than 20 years of commercial software development experience and hundreds of successfully completed projects in both outsourcing and product companies.
 
 Something else I have plenty of pasion about is alpine and sport rock climbing 🧗‍♂️
 
