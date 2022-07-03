@@ -1,8 +1,8 @@
 ## Hello there!
 
-I'm a senior developer with a focus on software architecture and design. Currently I live in Bulgaria 🇧🇬 and work remotely 👨‍💻
+I'm a senior software engineer with a focus on architecture and design. Currently I live in Bulgaria 🇧🇬 and work remotely 👨‍💻
 
-I coded my first program in 1996 on an 8-bit computer 👾. Today I have more than 20 years of commercial software development experience and hundreds of successfully completed projects in both outsourcing and product companies.
+I coded my first program in 1996 on an 8-bit computer 👾. Today I have 20+ years of commercial software development experience and hundreds of successfully completed projects in both product and outsourcing companies.
 
 <img alt="MMartinov" src="./mmartinov-logo-blue.png" width="256" />
 
