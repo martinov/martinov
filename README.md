@@ -9,8 +9,8 @@ I coded my first program in 1996 on an 8-bit computer 👾. Today I have 20+ yea
 ### You can find me on the web
 
 - 🧗‍♂️ My web site is [mmartinov.com](https://mmartinov.com)
-- 🔥 Proud member of the [Camplight](https://camplight.net) team
-- 🐦 [Twitter](https://twitter.com/mmartinov) | 💼 [LinkedIn](https://www.linkedin.com/in/martinov/)
+- 🔥 Co-owner of the [Camplight](https://camplight.net) cooperative
+- 🐦 [X](https://twitter.com/mmartinov) | 💼 [LinkedIn](https://www.linkedin.com/in/martinov/)
 
 ### Want to work with me or just get in touch?
 
