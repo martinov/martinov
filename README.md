@@ -14,4 +14,4 @@ I coded my first program in 1996 on an 8-bit computer 👾. Today I have 20+ yea
 
 ### Want to work with me or just get in touch?
 
-📫 Book a quick introductory call [here](https://cal.com/mmartinov/45-min-meeting).
+📫 Book a quick introductory call [here](https://calendar.app.google/rEndP3ZJSEqHKf1L7).
