@@ -1,6 +1,6 @@
 ## Hello there!
 
-I'm a software engineer and architect. Currently I live in Bulgaria 🇧🇬 and work remotely 👨‍💻
+I'm a software solutions architect and engineer. I live in Bulgaria 🇧🇬 and work remotely 👨‍💻
 
 I coded my first program in 1996 on an 8-bit computer 👾. Today I have 20+ years of commercial software development experience and hundreds of successfully completed projects in various sectors including business process automation, finance, insurance, healthcare and NGOs.
 
